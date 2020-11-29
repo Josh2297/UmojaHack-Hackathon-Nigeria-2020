@@ -1,0 +1,2 @@
+# UmojaHack-Hackathon-Nigeria-2020
+The objective of UmojaHack Nigeria 2020 hackathon is to Build a Classification model that classifies a customer  if that customer will submit a vehicle insurance claim within the first three months.This hackathon was hosted by AXA insurance Nigeria and will help it make better decision regatding customers and their tendencies of submitting a  claim within the first three months of issuance. This Hackathon was hosted on Zindi Africa. This solution was ranked 11th on the final leaderboard
